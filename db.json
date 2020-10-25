@@ -1,0 +1,27 @@
+{
+	"posts": [
+		{
+			"id": 1,
+			"title": "JavaScript post",
+			"body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eaque iure aut atque voluptate eligendi, labore at fuga ratione error aliquam asperiores excepturi autem. Voluptas, laboriosam eligendi odit id reprehenderit est."
+		},
+		{
+			"id": 2,
+			"title": "Python post",
+			"body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eaque iure aut atque voluptate eligendi, labore at fuga ratione error aliquam asperiores excepturi autem. Voluptas, laboriosam eligendi odit id reprehenderit est."
+		},
+		{
+			"id": 3,
+			"title": "NodeJs post",
+			"body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eaque iure aut atque voluptate eligendi, labore at fuga ratione error aliquam asperiores excepturi autem. Voluptas, laboriosam eligendi odit id reprehenderit est."
+		},
+		{
+			"id": 4,
+			"title": "NextJs post",
+			"body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eaque iure aut atque voluptate eligendi, labore at fuga ratione error aliquam asperiores excepturi autem. Voluptas, laboriosam eligendi odit id reprehenderit est."
+		}
+	],
+	"about": {
+		"title": "Page about us"
+	}
+}
